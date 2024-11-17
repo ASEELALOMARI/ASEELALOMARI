@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'am Aseel Alomari
 =====================================================================================================================================
 
-Front-end Developer 
+Software Developer 
 --------------------------------
 
 I am very interested in software engineering and development. Although I am in the early stages of my career in this field, I am eager to seek support and guidance as I continue to grow and develop my skills.
